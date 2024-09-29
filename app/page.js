@@ -1,9 +1,12 @@
+import { Button } from "./components/Button";
+
 export default function Home() {
   return (
-    <div >
+    <>
+    <Button name="click me"/>
       <h1>
         Hello there
       </h1>
-    </div>
+    </>
   );
 }
