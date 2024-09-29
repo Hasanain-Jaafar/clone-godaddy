@@ -49,7 +49,8 @@ Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 License
 This project is open source and available under the MIT License.
-Acknowledgements
 
-Frontend Practice for the project idea
-GoDaddy for the design inspiration
+## Acknowledgements
+
+- Frontend Practice for the project idea
+- GoDaddy for the design inspiration
